@@ -11,6 +11,8 @@
 [绝区零]com.miHoYo.cloudgames.Nap
 [崩坏星穹铁道]com.miHoYo.cloudgames.hkrpg
 [异环]com.pwrd.cloud.yh.laohu
+[终末地]com.hypergryph.cloud.endfield
+...
 ...
 ```
 ---
